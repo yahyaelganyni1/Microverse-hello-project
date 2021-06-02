@@ -1,7 +1,9 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# microverse hello project
 
-# Microverse-hello-project
+**author**
 
-this project is for Microverse to learn how to use GitHub
+- GitHub [@yahyaelganyni1](https://github.com/yahyaelganyni1)
 
-![screenshot](./screenshot.png)
+- twitter [@crazy20046](https://twitter.com/crazy20046)
+
+- LinkedIn [Yahya EL-ganayni](https://www.linkedin.com/in/yahya-el-ganayni-a456115b/)
